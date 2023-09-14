@@ -9,7 +9,7 @@ baseFontSize()
 window.addEventListener('resize', baseFontSize)
 
 function baseFontSize (){
-  const base = 16 / 375
+  const base = 37.5 / 375
 
   const shouldBeWide = Math.min(414, window.innerWidth) * base
 
