@@ -163,7 +163,7 @@ class DDS_lanhupage_0 extends Component {
               </div>
             </div>
             <div className={`${styles['group_7']} flex-col`}>
-              <div className={`${styles['section_1']} flex-row justify-between`} onClick={() => window.location.hash = '/lanhu_wodebangzhuzhongxin'}>
+              <div className={`${styles['section_1']} flex-row justify-between`} onClick={() => window.location.href = '/lanhu_wodebangzhuzhongxin'}>
                 <div className={`${styles['image-text_8']} flex-row justify-between`}>
                   <img
                     className={`${styles['label_1']}`}

@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import { HashRouter as Router, Route, Redirect, Switch } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Redirect, Switch } from 'react-router-dom'
 
 import lanhu_wodebangzhuzhongxin from './view/lanhu_wodebangzhuzhongxin/index.jsx'
 import lanhu_daibi from './view/lanhu_daibi/index.jsx'
