@@ -3,7 +3,7 @@
 import React, { Component } from 'react';
 import { Switch, NavBar, Checkbox, Radio, Input, Tabs, TabBar, Badge } from 'antd-mobile';
 
-import styles from './assets/index.module.css';
+import styles from './assets/indexRem.module.css';
 
 const print = function (value) {};
 class DDS_lanhupage_0 extends Component {
