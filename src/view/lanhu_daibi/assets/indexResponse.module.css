@@ -1,0 +1,201 @@
+.page {
+  background-color: rgba(68, 68, 68, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 0);
+  width: 100vw;
+  height: 11.74vw;
+  justify-content: flex-center;
+}
+
+.text_1 {
+  width: 14.4vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 3.73vw;
+  letter-spacing: -0.2800000011920929px;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 3.74vw;
+  margin: 4.26vw 0 0 4.53vw;
+}
+
+.thumbnail_1 {
+  width: 4.54vw;
+  height: 2.94vw;
+  margin: 5.06vw 0 0 58.4vw;
+}
+
+.thumbnail_2 {
+  width: 4.27vw;
+  height: 2.94vw;
+  margin: 4.8vw 0 0 1.6vw;
+}
+
+.image_1 {
+  width: 6.67vw;
+  height: 3.2vw;
+  margin: 4.8vw 4.53vw 0 1.06vw;
+}
+
+.section_2 {
+  background-color: rgba(247, 249, 247, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  margin: 3.2vw 0 14.93vw 0;
+}
+
+.block_1 {
+  width: 51.2vw;
+  height: 6.4vw;
+  margin: 3.73vw 0 0 45.33vw;
+}
+
+.text_2 {
+  width: 9.6vw;
+  height: 5.34vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 4.8vw;
+  font-family: Source Han Sans CN-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 5.34vw;
+  margin-top: 0.54vw;
+}
+
+.label_1 {
+  width: 6.4vw;
+  height: 6.4vw;
+}
+
+.block_2 {
+  background-color: rgba(235, 235, 235, 1);
+  width: 91.47vw;
+  height: 8.54vw;
+  margin: 2.66vw 0 195.2vw 4.26vw;
+}
+
+.section_3 {
+  width: 3.74vw;
+  height: 3.74vw;
+  margin: 1.86vw 0 0 2.66vw;
+}
+
+.text_3 {
+  width: 5.6vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 3.73vw;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 3.74vw;
+  margin: 1.86vw 76.53vw 0 2.93vw;
+}
+
+.block_3 {
+  background-color: rgba(255, 255, 255, 1);
+  position: absolute;
+  left: 0;
+  top: 25.6vw;
+  width: 100vw;
+  height: 191.74vw;
+}
+
+.group_1 {
+  height: 23.74vw;
+  background: url(./img/MasterDDSSlicePNG29c35107da791c80af9b377fee063d96.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 23.74vw;
+  position: relative;
+  margin: 21.06vw 0 0 38.4vw;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8px;
+  height: 15.47vw;
+  width: 12.27vw;
+  margin: 3.46vw 0 0 5.86vw;
+}
+
+.label_2 {
+  width: 9.87vw;
+  height: 12vw;
+  margin: 2.13vw 0 0 1.06vw;
+}
+
+.image_2 {
+  position: absolute;
+  left: 18.94vw;
+  top: 1.87vw;
+  width: 6.94vw;
+  height: 4vw;
+}
+
+.text_4 {
+  width: 12.8vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(190, 190, 190, 1);
+  font-size: 3.2vw;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 3.2vw;
+  margin: 5.86vw 0 0 43.73vw;
+}
+
+.image_3 {
+  width: 100vw;
+  height: 9.07vw;
+  margin: 126.66vw 0 0.8vw 0;
+}
+
+.label_3 {
+  position: absolute;
+  left: 50.4vw;
+  top: 31.2vw;
+  width: 12.8vw;
+  height: 13.07vw;
+}
+
+.image_4 {
+  position: absolute;
+  left: 36vw;
+  top: 24.27vw;
+  width: 28vw;
+  height: 17.87vw;
+}
+
+.image_5 {
+  position: absolute;
+  left: 6.4vw;
+  top: 17.07vw;
+  width: 4.27vw;
+  height: 5.6vw;
+}
+
+.block_4 {
+  background-color: rgba(194, 194, 194, 1);
+  position: absolute;
+  left: 0;
+  top: -3.2vw;
+  width: 100vw;
+  height: 11.74vw;
+}
